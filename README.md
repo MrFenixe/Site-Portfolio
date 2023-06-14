@@ -8,6 +8,8 @@
 1. Сноски
 2. Таймер обратного отсчёта 
 3. Шаблон фотоколлажа
+4. Готовые блоки
+5. [Конструктор логотипов](www.renderforest.com)
 
 # Скриншоты 
 ![image](https://sun7-19.userapi.com/impg/f1TWIjhNHPwW0UGSQ0-VvDJyP-qyN_KeJuUl_g/BKqdLl-4YAA.jpg?size=1280x682&quality=96&sign=22c6ea676d608ae8c234d032f15ddf64&type=album)
