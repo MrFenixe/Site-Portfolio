@@ -1,5 +1,5 @@
 # Сайт-порфолио (визитка)
-Сайт о себе созданный при помощи конструктора сайтов Nicepage.com при помощи шаблонов
+Сайт о себе созданный используя конструктор сайтов Nicepage.com
 
 # Скриншоты 
 ![image](https://sun7-19.userapi.com/impg/f1TWIjhNHPwW0UGSQ0-VvDJyP-qyN_KeJuUl_g/BKqdLl-4YAA.jpg?size=1280x682&quality=96&sign=22c6ea676d608ae8c234d032f15ddf64&type=album)
